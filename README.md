@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Website Todo-list 📋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ภาพรวม
 
-## Available Scripts
+เว็บไซต์นี้ถูกสร้างขึ้นเพื่อช่วยจัดการรายการสิ่งที่ต้องทำ (Todo-list) ให้ใช้งานง่ายและมีประสิทธิภาพ สามารถเพิ่ม ลบ และแก้ไขรายการได้อย่างสะดวกสบาย
 
-In the project directory, you can run:
+## รายละเอียด
 
-### `npm start`
+เว็บไซต์ Todo-list นี้ถูกพัฒนาด้วยเทคโนโลยีที่ทันสมัย เพื่อให้ได้ประสบการณ์การใช้งานที่ดีที่สุด:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **HTML**: ใช้สำหรับสร้างโครงสร้างพื้นฐานของหน้าเว็บ
+- **CSS**: ใช้สำหรับการออกแบบและจัดรูปแบบหน้าเว็บ ให้สวยงามและน่าใช้งาน
+- **JavaScript**: ใช้สำหรับเพิ่มฟังก์ชั่นการทำงานแบบไดนามิกและการโต้ตอบกับผู้ใช้
+- **React**: การพัฒนาในรูปแบบ Component-Based ทำให้โค้ดสามารถนำกลับมาใช้ใหม่ได้ง่ายและจัดการได้ดี
+- **MongoDB**: ใช้เป็นฐานข้อมูลในการเก็บรายการสิ่งที่ต้องทำ
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### ระบบการจัดการ
 
-### `npm test`
+- **เพิ่มรายการ**: สามารถเพิ่มรายการสิ่งที่ต้องทำใหม่ได้อย่างง่ายดาย
+- **ลบรายการ**: สามารถลบรายการที่ทำเสร็จหรือไม่ต้องการได้
+- **แก้ไขรายการ**: สามารถแก้ไขรายละเอียดของรายการที่มีอยู่ได้
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**พัฒนาโดยใช้ภาษา**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<br />
+<br />
 
-### `npm run build`
+**Library**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+<br />
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Database**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+*link to website* : [https://3-d-shirt-v1.vercel.app/](https://main--statuesque-souffle-81233c.netlify.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Deploy on Netlify
